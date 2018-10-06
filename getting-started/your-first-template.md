@@ -10,13 +10,8 @@ Follow the [installation instructions](installation.md), then require or import 
 
 ```
 var Sqrl = require("squirrelly")
-//Or you could: import * as Sqrl
 //Or, if you're in the browser, Sqrl is already global
 ```
-
-{% hint style="info" %}
-Don't import as a `const,`otherwise you won't be able to define your own helpers and filters.
-{% endhint %}
 
 ## 2. Create a Template
 
