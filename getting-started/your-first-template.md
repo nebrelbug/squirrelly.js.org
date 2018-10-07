@@ -10,7 +10,6 @@ Follow the [installation instructions](installation.md), then require or import 
 
 ```
 var Sqrl = require("squirrelly")
-//Or, if you're in the browser, Sqrl is already global
 ```
 
 ## 2. Create a Template
