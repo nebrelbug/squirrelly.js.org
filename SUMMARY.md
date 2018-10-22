@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Read Me](README.md)
+* [FAQ](faq.md)
+* [Demo](demo.md)
+* [Performance](performance.md)
+* [Changelog](changelog.md)
 
 ## Getting Started
 
@@ -45,11 +49,4 @@
 ## Guides
 
 * [Generating Badges with Squirrelly](guides/generating-badges-with-squirrelly.md)
-
-## About
-
-* [Demo](about/demo.md)
-* [FAQ](about/faq.md)
-* [Performance](about/performance.md)
-* [Changelog](about/changelog.md)
 
