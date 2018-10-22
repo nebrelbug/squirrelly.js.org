@@ -8,7 +8,7 @@ In Squirrelly, a reference is a single value that's passed in as an option to th
 
 A helper reference is a reference that points to data created by a helper. For example, when looping through an object using the `foreach` helper
 
-## Basic syntax {#basic-syntax}
+## Basic syntax <a id="basic-syntax"></a>
 
 ```text
 <p>This is a helper reference: {{@stuff}}</p>

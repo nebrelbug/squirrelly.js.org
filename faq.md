@@ -1,5 +1,5 @@
 ---
-description: FAQs about Squirrelly
+description: Frequently Asked Questions
 ---
 
 # FAQ
@@ -24,7 +24,7 @@ Squirrelly has a number of features that set it apart from the competition:
 * It works with other languages than HTML
 * It's not whitespace sensitive
 
-For more information, see [Why Squirrelly?](../getting-started/why-squirrelly.md)
+For more information, see [Why Squirrelly?](getting-started/why-squirrelly.md)
 
 
 

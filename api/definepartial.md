@@ -1,7 +1,3 @@
----
-description: A guide to using Partials in Squirrelly
----
-
 # definePartial
 
 ```text
