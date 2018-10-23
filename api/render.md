@@ -14,7 +14,7 @@ Rendering a function is usually better for performance, since Squirrelly doesn't
 {% endhint %}
 
 {% hint style="info" %}
-Caching is coming soon!
+Caching is available. Set `options.$cache` to `true`, and set `options.$name` to some string value so Squirrelly can cache the resulting function.
 {% endhint %}
 
 ## Examples
