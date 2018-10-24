@@ -33,7 +33,6 @@
 * [Render](api/render.md)
 * [renderFile](api/renderfile.md)
 * [load](api/load.md)
-* [softCaching](api/softcaching.md)
 * [defineFilter](api/definefilter.md)
 * [setDefaultFilters](api/setdefaultfilters.md)
 * [autoEscaping](api/autoescaping.md)
