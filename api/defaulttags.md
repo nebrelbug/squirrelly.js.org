@@ -1,5 +1,5 @@
 ---
-description: Setting the default tags in Squirrelly
+description: How to set default tags in Squirrelly
 ---
 
 # defaultTags
@@ -7,6 +7,16 @@ description: Setting the default tags in Squirrelly
 ```text
 Sqrl.defaultTags(["--","--"])
 ```
+
+Then, in your template:
+
+{% code-tabs %}
+{% code-tabs-item title="index.squirrelly" %}
+```text
+--someReference--
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
 
 
 

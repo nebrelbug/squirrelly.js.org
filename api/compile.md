@@ -1,7 +1,3 @@
----
-description: The syntax of Sqrl.Compile
----
-
 # Compile
 
 {% hint style="info" %}
