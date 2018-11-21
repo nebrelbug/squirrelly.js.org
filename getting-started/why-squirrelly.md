@@ -19,5 +19,7 @@ Squirrelly has a number of features that set it apart from the competition:
 | Whitespace sensitive | No | No | Yes | No | No | No |
 | Content Type | All | All | HTML | HTML | All | All |
 
+## Why Regular Expressions?
 
+Though some people think that regular expressions aren't a good idea for template engines, we believe they're the right choice for Squirrelly because of the speed they allow, because of the extensive testing we've done, and because of the relative simplicity of Squirrelly's syntax.
 
