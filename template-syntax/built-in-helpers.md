@@ -36,6 +36,7 @@ The current index is {{@index}}
 This loops over each of an objects keys and values.
 The value of the current child is {{@this}}
 The current key is {{@key}}
+{{/foreach}}
 ```
 
 ### Helper References:
