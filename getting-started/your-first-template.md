@@ -10,10 +10,6 @@ var Sqrl = require("squirrelly")
 //Or, if you're in the browser, Sqrl is already global
 ```
 
-{% hint style="info" %}
-Don't import as a `const,`otherwise you won't be able to define your own helpers and filters.
-{% endhint %}
-
 ## 2. Create a Template
 
 ```text
