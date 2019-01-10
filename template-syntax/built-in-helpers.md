@@ -76,5 +76,3 @@ Setting custom tags can be really helpful when writing in a language such as LaT
 {{newvalue}}
 ```
 
-
-

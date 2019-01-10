@@ -1,7 +1,3 @@
----
-description: Frequently Asked Questions
----
-
 # FAQ
 
 ## Does it only work with HTML?

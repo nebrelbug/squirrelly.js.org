@@ -1,7 +1,3 @@
----
-description: Global reference syntax in Squirrelly
----
-
 # Global References
 
 In Squirrelly, a reference is a single value that's passed in as an option to the template. There are two types of references, global references and [helper references](helper-references.md).

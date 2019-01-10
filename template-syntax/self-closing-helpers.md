@@ -1,7 +1,3 @@
----
-description: Self-closing helper syntax in Squirrelly
----
-
 # Self-Closing Helpers
 
 ## Basic Syntax

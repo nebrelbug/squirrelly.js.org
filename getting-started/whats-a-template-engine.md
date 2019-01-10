@@ -1,7 +1,3 @@
----
-description: Explaining how template engines work and what they do
----
-
 # What's a template engine?
 
 A template engine is a program that takes a template and data, and returns the template filled with the data. 

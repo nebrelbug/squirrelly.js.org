@@ -1,7 +1,3 @@
----
-description: Helper syntax in Squirrelly
----
-
 # Helpers
 
 ## Basic Syntax

@@ -1,7 +1,3 @@
----
-description: How to set default tags in Squirrelly
----
-
 # defaultTags
 
 ```text

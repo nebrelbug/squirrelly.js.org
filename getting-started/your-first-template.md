@@ -1,7 +1,3 @@
----
-description: A guide to creating your first Squirrelly template
----
-
 # Your First Template
 
 ## 1. Install Squirrelly

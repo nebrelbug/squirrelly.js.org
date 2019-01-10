@@ -1,7 +1,3 @@
----
-description: Changelog
----
-
 # Changelog
 
 ## 5.0.1-beta

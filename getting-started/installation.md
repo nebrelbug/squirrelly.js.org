@@ -1,7 +1,3 @@
----
-description: A guide to installing Squirrelly
----
-
 # Installation
 
 ## With NPM

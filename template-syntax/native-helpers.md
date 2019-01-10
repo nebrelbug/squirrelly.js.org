@@ -1,7 +1,3 @@
----
-description: Native helpers in Squirrelly
----
-
 # Native Helpers
 
 A **native helper** is a helper that is turned into other JavaScript code, rather than being called at runtime. For example,

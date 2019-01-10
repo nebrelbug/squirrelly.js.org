@@ -4,3 +4,5 @@ description: 'A tutorial on generating badges, like shields.io, with Squirrelly 
 
 # Generating Badges with Squirrelly
 
+
+

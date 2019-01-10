@@ -1,7 +1,3 @@
----
-description: Filter syntax in Squirrelly
----
-
 # Filters
 
 ## Basic Syntax

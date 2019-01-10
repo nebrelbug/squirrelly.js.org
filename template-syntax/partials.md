@@ -1,7 +1,3 @@
----
-description: How to use Partials in Squirrelly
----
-
 # Partials
 
 {% hint style="info" %}

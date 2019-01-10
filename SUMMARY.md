@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Read Me](README.md)
+* [Overview](README.md)
 * [FAQ](faq.md)
 * [Demo](demo.md)
 * [Performance](performance.md)

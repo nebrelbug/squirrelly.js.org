@@ -1,4 +1,4 @@
-# Read Me
+# Overview
 
 Squirrelly is a template engine written in JavaScript.
 
@@ -12,5 +12,32 @@ Squirrelly doesn't just limit you to HTML--you can use it with any language, and
 Did you know that Squirrelly is consistently faster than most other template engines, according to benchmarks?
 {% endhint %}
 
+### Simple Template:
 
+```text
+var myTemplate = "<p>My favorite kind of cake is: {{favoriteCake}}</p>"
+
+Sqrl.Render(myTemplate, {favoriteCake: 'Chocolate!'})
+// Returns: '<p>My favorite kind of cake is: Chocolate!</p>
+```
+
+### Conditionals:
+
+```text
+{{if(options.somevalue === 1)}}
+Display this
+{{#else}}
+Display this
+{{/if}}
+```
+
+### Loops
+
+```text
+{{each(options.somearray)}}
+Display this
+The current array element is {{@this}}
+The current index is {{@index}}
+{{/each}}
+```
 

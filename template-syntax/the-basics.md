@@ -1,7 +1,3 @@
----
-description: The basics of Squirrelly syntax
----
-
 # The Basics
 
 ## Language Items
