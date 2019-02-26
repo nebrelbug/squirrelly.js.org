@@ -40,5 +40,5 @@ Try rendering it with other data: it still works!
 
 ## Browser Demo
 
-{% embed url="https://runkit.com/nebrelbug/squirrellyjs-basic-example/4.0.1" caption="If this doesn\'t appear correctly, see below" %}
+{% embed url="https://runkit.com/nebrelbug/squirrellyjs-basic-example/4.0.1" caption="Press SHIFT+ENTER if you can\'t see the Run button" %}
 
