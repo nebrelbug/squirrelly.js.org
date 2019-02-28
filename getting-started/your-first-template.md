@@ -1,5 +1,9 @@
 # Your First Template
 
+## Browser Demo
+
+{% embed url="https://runkit.com/nebrelbug/squirrellyjs-basic-example/4.0.1" caption="Press SHIFT+ENTER if you can\'t see the Run button, or scroll down" %}
+
 ## 1. Install Squirrelly
 
 Follow the [installation instructions](installation.md), then require or import Squirrelly. In this example, we'll require Squirrelly as the variable `Sqrl`.
@@ -37,8 +41,4 @@ console.log(templateResult)
 ```
 
 Try rendering it with other data: it still works!
-
-## Browser Demo
-
-{% embed url="https://runkit.com/nebrelbug/squirrellyjs-basic-example/4.0.1" caption="Press SHIFT+ENTER if you can\'t see the Run button" %}
 
