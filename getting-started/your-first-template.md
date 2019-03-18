@@ -2,7 +2,7 @@
 
 ## Browser Demo
 
-{% embed url="https://runkit.com/nebrelbug/squirrellyjs-basic-example/4.0.1" caption="Press SHIFT+ENTER if you can\'t see the Run button, or scroll down" %}
+{% embed url="https://runkit.com/nebrelbug/squirrellyjs-basic-example/4.0.1" caption="" %}
 
 ## 1. Install Squirrelly
 
