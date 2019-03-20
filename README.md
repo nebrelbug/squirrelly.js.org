@@ -41,3 +41,5 @@ The current index is {{@index}}
 {{/each}}
 ```
 
+<div id="codefund"><!-- fallback content --></div>
+<script src="https://codefund.app/properties/190/funder.js" async="async"></script>
