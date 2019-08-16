@@ -14,7 +14,7 @@ Did you know that Squirrelly is consistently faster than most other template eng
 
 ## Simple Template:
 
-```text
+```javascript
 var myTemplate = "<p>My favorite kind of cake is: {{favoriteCake}}</p>"
 
 Sqrl.Render(myTemplate, {favoriteCake: 'Chocolate!'})
