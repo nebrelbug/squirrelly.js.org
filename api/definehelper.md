@@ -1,6 +1,6 @@
 # defineHelper
 
-```text
+```javascript
 Sqrl.defineHelper("helperName", function(args, content, blocks) {
     //Do whatever you want here with the arguments, blocks, and content
     //Example:

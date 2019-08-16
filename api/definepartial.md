@@ -1,6 +1,6 @@
 # definePartial
 
-```text
+```javascript
 Sqrl.definePartial("mypartial", `
 This is a partial.
 It can be called with the data of the template it's in.

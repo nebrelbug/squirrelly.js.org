@@ -16,6 +16,8 @@ Display this
 
 ## each
 
+`each` loops over an array.
+
 ```text
 {{each(options.somearray)}}
 Display this
@@ -31,9 +33,11 @@ The current index is {{@index}}
 
 ## foreach
 
+`foreach` loops over an object
+
 ```text
 {{foreach(options.someobject)}}
-This loops over each of an objects keys and values.
+This loops over each of an object's keys and values.
 The value of the current child is {{@this}}
 The current key is {{@key}}
 {{/foreach}}

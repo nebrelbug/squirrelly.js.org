@@ -1,6 +1,6 @@
 # setDefaultFilters
 
-```text
+```javascript
 setDefaultFilters("clear") //This removes all default filters
 setDefaultFilters({filtername: true}) //This sets the filter 'filtername'
 //as a default filter

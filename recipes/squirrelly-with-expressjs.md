@@ -10,7 +10,7 @@ Though Squirrelly handles caching, it isn't very sophisticated and the cache onl
 
 {% code-tabs %}
 {% code-tabs-item title="index.js" %}
-```text
+```javascript
 let express = require('express');
 let path = require('path');
 let app = express();

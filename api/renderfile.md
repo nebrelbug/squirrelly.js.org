@@ -1,6 +1,6 @@
 # renderFile
 
-```text
+```javascript
 Sqrl.renderFile(filePath, options)
 ```
 

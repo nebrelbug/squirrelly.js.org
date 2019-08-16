@@ -1,6 +1,6 @@
 # Native Helpers
 
-A **native helper** is a helper that is turned into other JavaScript code, rather than being called at runtime. For example,
+A **native helper** is a helper that is turned into JavaScript code at compilation time, rather than being called at runtime. For example,
 
 ```text
 {{log("hi")/}}
@@ -8,7 +8,9 @@ A **native helper** is a helper that is turned into other JavaScript code, rathe
 
 is turned into `console.log("hi")` . 
 
-You can define your own native helpers too: learn [here](../api/definenativehelper.md).
+{% hint style="info" %}
+Learn how to create your own native helpers [here](../api/definenativehelper.md)
+{% endhint %}
 
 ## Examples
 

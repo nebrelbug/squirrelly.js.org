@@ -6,7 +6,7 @@ Many template engines offer you the option to **Compile** \(which just renders y
 
 ## Syntax
 
-```text
+```javascript
 var myTemplate = "Hi, my name is {{name}}"
 var compiled = Sqrl.Compile(myTemplate)
 //Returns an anonymous function:

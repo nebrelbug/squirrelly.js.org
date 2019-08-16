@@ -16,12 +16,29 @@ Helper references are always in the scope of its parent helper.
 
 ## Scoping
 
-After the `@`, place one `../` for each level of helper you want to go back. If you specified an id when you created the helper:
+To access the helper references of an outside helper, you can use scoping. Example:
 
 ```text
-{{helper(params) someid}}
-{{/helper}}
+{{helper1(parameters)}}
+Do this
+{{helper2(parameters)}}
+This is a helper ref from helper2: {{@someref}}
+This is a helper ref from helper1: {{@../someref}}
+{{/helper2}}
+{{/helper1}}
 ```
 
-Then you can reference that helper like this: `{{@someid:helperref}}`
+## ID
+
+If you have many layers of nestedness, it can be easier to use ID's instead of scoping.
+
+```text
+{{helper1(parameters) someID}}
+Do this
+{{helper2(parameters)}}
+This is a helper ref from helper2: {{@someref}}
+This is a helper ref from helper1: {{@someID:someref}}
+{{/helper2}}
+{{/helper1}}
+```
 

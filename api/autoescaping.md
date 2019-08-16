@@ -9,6 +9,10 @@ Sqrl.autoEscaping(false) // Turns autoEscaping off
 ```
 
 {% hint style="info" %}
+Note: to avoid escaping a specific reference, you can pass it through the `safe` filter. Example: `{{someref | safe}}`
+{% endhint %}
+
+{% hint style="info" %}
 Auto-escaping can be helpful, but it also negatively impacts performance. For best results, autoEscape data before you store it or attempt to render it in a template.
 {% endhint %}
 

@@ -1,6 +1,6 @@
 # defineNativeHelper
 
-```text
+```javascript
 Sqrl.defineNativeHelper (name, obj)
 // This is the code for the native 'if' helper
 Sqrl.defineNativeHelper('if', {

@@ -1,6 +1,6 @@
 # defaultTags
 
-```text
+```javascript
 Sqrl.defaultTags(["--","--"])
 ```
 

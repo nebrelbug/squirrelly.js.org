@@ -2,7 +2,7 @@
 
 ## Syntax
 
-```text
+```javascript
 Sqrl.Render(template, options)
 //If template is a function, returns the result of template(options, Sqrl)
 //If template is a string, it will Compile the string
