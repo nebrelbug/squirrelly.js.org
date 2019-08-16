@@ -12,7 +12,7 @@ Squirrelly doesn't just limit you to HTML--you can use it with any language, and
 Did you know that Squirrelly is consistently faster than most other template engines, according to benchmarks?
 {% endhint %}
 
-### Simple Template:
+## Simple Template:
 
 ```text
 var myTemplate = "<p>My favorite kind of cake is: {{favoriteCake}}</p>"
@@ -21,7 +21,7 @@ Sqrl.Render(myTemplate, {favoriteCake: 'Chocolate!'})
 // Returns: '<p>My favorite kind of cake is: Chocolate!</p>
 ```
 
-### Conditionals:
+## Conditionals:
 
 ```text
 {{if(options.somevalue === 1)}}
@@ -31,7 +31,7 @@ Display this
 {{/if}}
 ```
 
-### Loops
+## Loops
 
 ```text
 {{each(options.somearray)}}
@@ -41,5 +41,3 @@ The current index is {{@index}}
 {{/each}}
 ```
 
-<div id="codefund"><!-- fallback content --></div>
-<script src="https://codefund.app/properties/190/funder.js" async="async"></script>

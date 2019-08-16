@@ -8,15 +8,15 @@
 
 Follow the [installation instructions](installation.md), then require or import Squirrelly. In this example, we'll require Squirrelly as the variable `Sqrl`.
 
-```
+```javascript
 var Sqrl = require("squirrelly")
-//Or you could: import * as Sqrl
+//Or you could: import * as Sqrl from "squirrelly"
 //Or, if you're in the browser, Sqrl is already global
 ```
 
 ## 2. Create a Template
 
-```text
+```javascript
 var myTemplate = `
 This is a template
 My favorite template engine is: {{fav}}
@@ -30,7 +30,7 @@ In this example, we're using JavaScript template literals. **You don't have to u
 
 ## 3. Render your Template!
 
-```text
+```javascript
 var templateResult = Sqrl.Render(myTemplate, {
     fav: "Squirrelly", cake: "Chocolate"
 })

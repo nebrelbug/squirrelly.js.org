@@ -1,6 +1,10 @@
+---
+description: Install Squirrelly
+---
+
 # Installation
 
-## With NPM
+## Node
 
 ```
 npm install --save squirrelly
@@ -8,13 +12,15 @@ npm install --save squirrelly
 
 After the install is finished, accessing Squirrelly is as simple as:
 
-```
+```javascript
 var Sqrl = require('squirrelly')
 ```
 
-{% hint style="info" %}
-Squirrelly is also available and works on Yarn.
-{% endhint %}
+If you're using ES Modules, you can also do
+
+```javascript
+import * as Sqrl from 'squirrelly'
+```
 
 ## With a CDN
 
