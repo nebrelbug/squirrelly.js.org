@@ -7,7 +7,7 @@ description: A list of all Squirrelly's built-in native helpers..
 ## if/else
 
 ```text
-{{if(options.somevalue === 1)}}
+{{@if(options.somevalue === 1)}}
 Display this
 {{#else}}
 Display this
